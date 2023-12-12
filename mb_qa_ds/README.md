@@ -1,35 +1,3 @@
 Membuat segitiga
 
-SegitigaBolakBalikOne dengan asumsi input 5 maka hasilnya:
-
-/*
-
- *
- * *
- * * *
- * * * *
- * * * * *
- * * * *
- * * *
- * *
- * 
-
-*/
-
-
-SegitigaBolakBalikTwo dengan asumsi input 5 maka hasilnya:
-
-/*
-
- *
- * *
- * * *
- * * * *
- * * * * *
- * * * * *
- * * * *
- * * *
- * *
- * 
-
-*/
+Segitiga bolak balik dengan asumsi input 5 dan hasil bisa dilihat di masing-masing code di SegitigaBolakBalikOne.java dan SegitigaBolakBalikTwo.java
