@@ -1,5 +1,4 @@
-Membuat kalkulator sederhana dengan step penggunaan sebagai berikut:
-    input data 1
-    input data 2
-    pilih operator
-    tampilkan hasil
+# API Testing Using Karate Framework
+
+Homework 7 API Automation
+by: Kurniawan Adi Saputra
